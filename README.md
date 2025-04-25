@@ -7,7 +7,7 @@ This software is a basic R script that prints "Hello World" to the console.
 
 While simple, it allowed me to practice initializing Git in RStudio, creating a public repository, and producing professional documentation and a demonstration video.
 
-[Software Demo Video](https://youtu.be/your-video-link)
+[Software Demo Video](https://youtu.be/ZyS01uyB29s)
 
 # Development Environment
 
